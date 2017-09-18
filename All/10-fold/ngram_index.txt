@@ -1,268 +1,268 @@
-Feature 68800: 	concurrentmodificationexception
-Feature 173710: 	how
-Feature 513420: 	is
-Feature 276008: 	demonstrate
-Feature 277056: 	t
-Feature 61034: 	stringindexoutofboundsexception
-Feature 91091: 	incorrectly
-Feature 66722: 	illustrating
-Feature 92159: 	properly
-Feature 130021: 	single
-Feature 512349: 	is
-Feature 36317: 	boost
-Feature 25702: 	eb
-Feature 4113: 	gentoo
-Feature 53517: 	exposes
-Feature 180908: 	part
-Feature 124241: 	collection
-Feature 294820: 	if
-Feature 43121: 	incubator
-Feature 313070: 	have
-Feature 244801: 	cases
-Feature 515537: 	a
-Feature 515465: 	a
-Feature 267357: 	directory
-Feature 229049: 	file
-Feature 233610: 	type
-Feature 276689: 	attached
-Feature 237292: 	all
-Feature 249817: 	we
-Feature 391086: 	with
-Feature 247716: 	every
-Feature 39401: 	fielddescriptor
-Feature 275222: 	fix
-Feature 405056: 	not
-Feature 385355: 	like
-Feature 356667: 	out
-Feature 368491: 	new
-Feature 66783: 	hrefs
-Feature 524051: 	a
-Feature 38202: 	booleanquery
-Feature 116700: 	rejected
-Feature 103620: 	hashcode
-Feature 125282: 	commit
-Feature 154595: 	empty
-Feature 166141: 	never
-Feature 108678: 	inside
-Feature 171846: 	used
-Feature 80310: 	deadlock
-Feature 275831: 	fix
-Feature 306249: 	has
-Feature 330706: 	response
-Feature 290836: 	called
-Feature 305656: 	has
-Feature 310140: 	case
-Feature 294768: 	if
-Feature 301390: 	already
-Feature 294786: 	if
-Feature 57706: 	asserts
-Feature 321594: 	should
-Feature 50901: 	jcr
-Feature 289620: 	then
-Feature 322298: 	should
-Feature 338428: 	test
-Feature 291477: 	null
-Feature 330521: 	following
-Feature 349772: 	in
-Feature 61965: 	ilya
-Feature 54186: 	loggingsessioninputbuffer
-Feature 54582: 	claims
-Feature 7324: 	unmatched
-Feature 305087: 	been
-Feature 340466: 	trunk
-Feature 322277: 	should
-Feature 347045: 	thread
-Feature 39071: 	cluster
-Feature 364856: 	count
-Feature 363155: 	so
-Feature 352772: 	in
-Feature 351229: 	in
-Feature 354004: 	in
-Feature 360089: 	files
-Feature 60646: 	wrongly
-Feature 66587: 	wary
-Feature 66067: 	rejects
-Feature 66325: 	fragment
-Feature 27326: 	logincontext
-Feature 26616: 	    builder
-Feature 367947: 	new
-Feature 369375: 	throws
-Feature 369416: 	throws
-Feature 367636: 	new
-Feature 367358: 	0
-Feature 367598: 	new
-Feature 369927: 	string
-Feature 384052: 	add
-Feature 381179: 	of
-Feature 377766: 	of
-Feature 369585: 	string
-Feature 382683: 	of
-Feature 385810: 	like
-Feature 391213: 	with
-Feature 405760: 	not
-Feature 389957: 	with
-Feature 395657: 	only
-Feature 399325: 	that
-Feature 310567: 	case
-Feature 147119: 	value
-Feature 147143: 	value
-Feature 193284: 	here
-Feature 192862: 	true
-Feature 188390: 	its
-Feature 155406: 	default
-Feature 160543: 	fail
-Feature 193293: 	here
-Feature 193995: 	here
-Feature 168885: 	calling
-Feature 184558: 	duplicate
-Feature 189789: 	because
-Feature 176372: 	may
-Feature 186258: 	some
-Feature 76981: 	doc
-Feature 95095: 	upon
-Feature 139268: 	standard
-Feature 107335: 	via
-Feature 116666: 	outside
-Feature 134572: 	causes
-Feature 125400: 	commit
-Feature 135724: 	simple
-Feature 127501: 	contains
-Feature 86443: 	range
-Feature 72469: 	leads
-Feature 91087: 	incorrectly
-Feature 123468: 	copy
-Feature 97901: 	sneak
-Feature 103139: 	introduced
-Feature 94662: 	transaction
-Feature 133340: 	store
-Feature 75998: 	escaped
-Feature 108959: 	passed
-Feature 76030: 	evaluation
-Feature 231932: 	challenge
-Feature 227336: 	unfortunately
-Feature 261275: 	problems
-Feature 286796: 	patch
-Feature 336142: 	can
-Feature 257554: 	updated
-Feature 237180: 	all
-Feature 259867: 	thanks
-Feature 279143: 	since
-Feature 295937: 	if
-Feature 327586: 	closed
-Feature 223410: 	state
-Feature 166180: 	never
-Feature 199251: 	process
-Feature 189399: 	doesn
-Feature 157724: 	must
-Feature 150784: 	actually
-Feature 163420: 	number
-Feature 241427: 	fails
-Feature 533121: 	and
-Feature 474704: 	the
-Feature 499686: 	i
-Feature 535708: 	ignores
-Feature 530109: 	and
-Feature 498238: 	i
-Feature 512575: 	is
-Feature 476125: 	the
-Feature 461454: 	the
-Feature 478465: 	the
-Feature 464049: 	the
-Feature 43701: 	nodeid
-Feature 477121: 	the
-Feature 44376: 	readers
-Feature 486328: 	writing
-Feature 527200: 	when
-Feature 511690: 	is
-Feature 130141: 	finding
-Feature 320911: 	should
-Feature 192732: 	true
-Feature 337189: 	test
-Feature 51900: 	getrootnode
-Feature 295557: 	if
-Feature 450171: 	java
-Feature 373025: 	org
-Feature 325093: 	at
-Feature 100848: 	   a
-Feature 449025: 	java
-Feature 474624: 	the
-Feature 337965: 	test
-Feature 98349: 	story
-Feature 537137: 	1
-Feature 166088: 	nullpointerexception
-Feature 66339: 	nullpointer
-Feature 449519: 	java
-Feature 55251: 	addnode
-Feature 335491: 	can
-Feature 368821: 	new
-Feature 330152: 	get
-Feature 523128: 	a
-Feature 222910: 	deprecate
-Feature 355844: 	exception
-Feature 132184: 	separate
-Feature 325034: 	at
-Feature 360555: 	c
-Feature 340965: 	fixed
-Feature 432281: 	to
-Feature 416815: 	this
-Feature 450664: 	java
-Feature 450102: 	java
-Feature 450092: 	java
-Feature 489247: 	an
-Feature 458301: 	the
-Feature 167101: 	remove
-Feature 68679: 	npe
-Feature 66133: 	artifacts
-Feature 180824: 	reproduce
-Feature 520241: 	a
-Feature 15578: 	nocommit
-Feature 154208: 	documentation
-Feature 260297: 	thanks
-Feature 420882: 	this
-Feature 131540: 	contrib
-Feature 249669: 	we
-Feature 129296: 	improvements
-Feature 222894: 	deprecate
-Feature 366277: 	0
-Feature 61944: 	extensible
-Feature 148284: 	dependencies
-Feature 463604: 	the
-Feature 214791: 	done
-Feature 64339: 	merged
-Feature 131978: 	contrib
-Feature 82359: 	handy
-Feature 339701: 	branch
-Feature 525832: 	a
-Feature 59024: 	customize
-Feature 162916: 	looks
-Feature 39936: 	repro
-Feature 355914: 	exception
-Feature 135096: 	implemented
-Feature 339700: 	branch
-Feature 70033: 	getpath
-Feature 24770: 	caps
-Feature 98196: 	therefore
-Feature 351356: 	in
-Feature 67141: 	readme
-Feature 53371: 	reduces
-Feature 138068: 	performance
-Feature 477136: 	the
-Feature 40315: 	itemstate
-Feature 292384: 	if
-Feature 286156: 	patch
-Feature 162776: 	good
-Feature 170020: 	change
-Feature 298062: 	as
-Feature 210845: 	oleghi
-Feature 129704: 	sandbox
-Feature 359694: 	6
-Feature 108698: 	improvement
-Feature 365635: 	e
-Feature 365640: 	e
-Feature 157007: 	package
-Feature 98951: 	improve
-Feature 73447: 	prove
-Feature 471661: 	the
-Feature 445277: 	to
-Feature 72241: 	faster
-Feature 90360: 	      
+Feature 68800: 	 concurrentmodificationexception
+Feature 173710: 	 how to reproduce
+Feature 513420: 	 is a regression
+Feature 276008: 	 demonstrate the problem
+Feature 277056: 	 t honor
+Feature 61034: 	 stringindexoutofboundsexception
+Feature 91091: 	 incorrectly handles
+Feature 66722: 	 illustrating the
+Feature 92159: 	 properly implemented
+Feature 130021: 	 single quote
+Feature 512349: 	 is this bug
+Feature 36317: 	 boost 0
+Feature 25702: 	 eb
+Feature 4113: 	 gentoo
+Feature 53517: 	 exposes the bug
+Feature 180908: 	 part instead of
+Feature 124241: 	 collection on
+Feature 294820: 	 if it looks
+Feature 43121: 	 incubator jackrabbit trunk
+Feature 313070: 	 have a content
+Feature 244801: 	 cases showing
+Feature 515537: 	 a primarytype
+Feature 515465: 	 a uniqueid part
+Feature 267357: 	 directory then the
+Feature 229049: 	 file is not closed
+Feature 233610: 	 type information is
+Feature 276689: 	 attached is a patch that fixes
+Feature 237292: 	 all documents have
+Feature 249817: 	 we thought the
+Feature 391086: 	 with content type
+Feature 247716: 	 every child
+Feature 39401: 	 fielddescriptor
+Feature 275222: 	 fix looks reasonable
+Feature 405056: 	 not overwrite the
+Feature 385355: 	 like it has no
+Feature 356667: 	 out of alignment
+Feature 368491: 	 new term field a
+Feature 66783: 	 hrefs
+Feature 524051: 	 a parse exception
+Feature 38202: 	 booleanquery toomanyclauses
+Feature 116700: 	 rejected in
+Feature 103620: 	 hashcode or
+Feature 125282: 	 commit shortly backport
+Feature 154595: 	 empty string if
+Feature 166141: 	 never cleaned up
+Feature 108678: 	 inside the try finally
+Feature 171846: 	 used to compare
+Feature 80310: 	 deadlock in
+Feature 275831: 	 fix is simple
+Feature 306249: 	 has an instance
+Feature 330706: 	 response by the
+Feature 290836: 	 called aborting
+Feature 305656: 	 has data
+Feature 310140: 	 case where they
+Feature 294768: 	 if this is a bug but
+Feature 301390: 	 already be fixed
+Feature 294786: 	 if it hits an exception
+Feature 57706: 	 asserts if
+Feature 321594: 	 should be constructed
+Feature 50901: 	 jcr user data
+Feature 289620: 	 then stored
+Feature 322298: 	 should not enforce
+Feature 338428: 	 test that fails without
+Feature 291477: 	 null cookie
+Feature 330521: 	 following relative
+Feature 349772: 	 in addition removed
+Feature 61965: 	 ilya
+Feature 54186: 	 loggingsessioninputbuffer which
+Feature 54582: 	 claims the
+Feature 7324: 	 unmatched
+Feature 305087: 	 been partially addressed
+Feature 340466: 	 trunk in lucene
+Feature 322277: 	 should only be considered
+Feature 347045: 	 thread multiphrasequery
+Feature 39071: 	 cluster node id should be
+Feature 364856: 	 count offsets
+Feature 363155: 	 so that external
+Feature 352772: 	 in it returning
+Feature 351229: 	 in your unit test
+Feature 354004: 	 in the equals method
+Feature 360089: 	 files without checking
+Feature 60646: 	 wrongly returns
+Feature 66587: 	 wary about changing
+Feature 66067: 	 rejects the
+Feature 66325: 	 fragment will
+Feature 27326: 	 logincontext
+Feature 26616: 	     builder
+Feature 367947: 	 new uuids
+Feature 369375: 	 throws an invalidqueryexception
+Feature 369416: 	 throws a null pointer exception
+Feature 367636: 	 new topfieldcollector
+Feature 367358: 	 0 for a non
+Feature 367598: 	 new weightedterm
+Feature 369927: 	 string string does not
+Feature 384052: 	 add node permission
+Feature 381179: 	 of http localhost
+Feature 377766: 	 of korean
+Feature 369585: 	 string incorrectly
+Feature 382683: 	 of the text to highlight
+Feature 385810: 	 like a bug to me
+Feature 391213: 	 with string value
+Feature 405760: 	 not too complex
+Feature 389957: 	 with implicit
+Feature 395657: 	 only catches
+Feature 399325: 	 that produces a
+Feature 310567: 	 case it was a
+Feature 147119: 	 value of the jcr
+Feature 147143: 	 value that includes a
+Feature 193284: 	 here s the obvious
+Feature 192862: 	 true if one
+Feature 188390: 	 its parsing
+Feature 155406: 	 default algorithm
+Feature 160543: 	 fail with a null pointer exception
+Feature 193293: 	 here s the fix for
+Feature 193995: 	 here is a patch nice catch simon
+Feature 168885: 	 calling indexdictionary
+Feature 184558: 	 duplicate connection
+Feature 189789: 	 because we fail to
+Feature 176372: 	 may incorrectly throw
+Feature 186258: 	 some unusual
+Feature 76981: 	 doc the problem
+Feature 95095: 	 upon successful
+Feature 139268: 	 standard that
+Feature 107335: 	 via header to
+Feature 116666: 	 outside of the if statement
+Feature 134572: 	 causes an infinite loop
+Feature 125400: 	 commit doesn t
+Feature 135724: 	 simple date
+Feature 127501: 	 contains name
+Feature 86443: 	 range query has
+Feature 72469: 	 leads to inconsistent
+Feature 91087: 	 incorrectly returns
+Feature 123468: 	 copy causes
+Feature 97901: 	 sneak into the
+Feature 103139: 	 introduced a bug in
+Feature 94662: 	 transaction should
+Feature 133340: 	 store files that
+Feature 75998: 	 escaped form
+Feature 108959: 	 passed as the
+Feature 76030: 	 evaluation of
+Feature 231932: 	 challenge as
+Feature 227336: 	 unfortunately we still
+Feature 261275: 	 problems with bitvector
+Feature 286796: 	 patch with new unit test
+Feature 336142: 	 can be verified
+Feature 257554: 	 updated patch i think its
+Feature 237180: 	 all solr lucene
+Feature 259867: 	 thanks scott
+Feature 279143: 	 since the value
+Feature 295937: 	 if a local
+Feature 327586: 	 closed on repository shutdown
+Feature 223410: 	 state before the
+Feature 166180: 	 never went
+Feature 199251: 	 process is now
+Feature 189399: 	 doesn t catch
+Feature 157724: 	 must be registered
+Feature 150784: 	 actually a bug
+Feature 163420: 	 number does not
+Feature 241427: 	 fails for me with
+Feature 533121: 	 and at the point
+Feature 474704: 	 the response to be
+Feature 499686: 	 i will commit a fix
+Feature 535708: 	 ignores return
+Feature 530109: 	 and value is
+Feature 498238: 	 i don t know if it s ok
+Feature 512575: 	 is to always
+Feature 476125: 	 the new openinput
+Feature 461454: 	 the wrapped request
+Feature 478465: 	 the tests and fix
+Feature 464049: 	 the offset to
+Feature 43701: 	 nodeid uuid
+Feature 477121: 	 the bug occurs
+Feature 44376: 	 readers doesn t
+Feature 486328: 	 writing files with the
+Feature 527200: 	 when an existing
+Feature 511690: 	 is not properly handled
+Feature 130141: 	 finding this
+Feature 320911: 	 should take care of the problem
+Feature 192732: 	 true      
+Feature 337189: 	 test showing the
+Feature 51900: 	 getrootnode
+Feature 295557: 	 if the problem
+Feature 450171: 	 java 149
+Feature 373025: 	 org jcr
+Feature 325093: 	 at org
+Feature 100848: 	    a
+Feature 449025: 	 java 30
+Feature 474624: 	 the following exception
+Feature 337965: 	 test case which
+Feature 98349: 	 story
+Feature 537137: 	 1 in revision
+Feature 166088: 	 nullpointerexception
+Feature 66339: 	 nullpointer
+Feature 449519: 	 java 15
+Feature 55251: 	 addnode
+Feature 335491: 	 can do this
+Feature 368821: 	 new patch with
+Feature 330152: 	 get http
+Feature 523128: 	 a docs
+Feature 222910: 	 deprecate a
+Feature 355844: 	 exception at
+Feature 132184: 	 separate class
+Feature 325034: 	 at or
+Feature 360555: 	 c java
+Feature 340965: 	 fixed in svn r
+Feature 432281: 	 to repro
+Feature 416815: 	 this feature i
+Feature 450664: 	 java 2
+Feature 450102: 	 java 8
+Feature 450092: 	 java 3
+Feature 489247: 	 an svn
+Feature 458301: 	 the demo
+Feature 167101: 	 remove deprecated
+Feature 68679: 	 npe i
+Feature 66133: 	 artifacts
+Feature 180824: 	 reproduce
+Feature 520241: 	 a package
+Feature 15578: 	 nocommit
+Feature 154208: 	 documentation i
+Feature 260297: 	 thanks for reporting
+Feature 420882: 	 this bug i
+Feature 131540: 	 contrib misc
+Feature 249669: 	 we now have
+Feature 129296: 	 improvements
+Feature 222894: 	 deprecate the
+Feature 366277: 	 0  
+Feature 61944: 	 extensible
+Feature 148284: 	 dependencies
+Feature 463604: 	 the contrib
+Feature 214791: 	 done in revision
+Feature 64339: 	 merged to the
+Feature 131978: 	 contrib a
+Feature 82359: 	 handy
+Feature 339701: 	 branch in revision
+Feature 525832: 	 a 4
+Feature 59024: 	 customize
+Feature 162916: 	 looks perfect
+Feature 39936: 	 repro
+Feature 355914: 	 exception     
+Feature 135096: 	 implemented in revision
+Feature 339700: 	 branch in rev
+Feature 70033: 	 getpath
+Feature 24770: 	 caps
+Feature 98196: 	 therefore i suggest to
+Feature 351356: 	 in svn r
+Feature 67141: 	 readme
+Feature 53371: 	 reduces
+Feature 138068: 	 performance test
+Feature 477136: 	 the bug is
+Feature 40315: 	 itemstate
+Feature 292384: 	 if nobody objects i would
+Feature 286156: 	 patch will commit soon
+Feature 162776: 	 good to me olegpatch
+Feature 170020: 	 change thanks
+Feature 298062: 	 as osgi
+Feature 210845: 	 oleghi oleg this looks
+Feature 129704: 	 sandbox
+Feature 359694: 	 6 branch
+Feature 108698: 	 improvement
+Feature 365635: 	 e         
+Feature 365640: 	 e             
+Feature 157007: 	 package a
+Feature 98951: 	 improve
+Feature 73447: 	 prove
+Feature 471661: 	 the fix i
+Feature 445277: 	 to the 1
+Feature 72241: 	 faster
+Feature 90360: 	          
