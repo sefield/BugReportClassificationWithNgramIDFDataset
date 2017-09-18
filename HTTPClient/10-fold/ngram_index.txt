@@ -1,182 +1,182 @@
-Feature 32815: 	if
-Feature 36524: 	205
-Feature 37536: 	snapshot
-Feature 58915: 	followed
-Feature 38850: 	3
-Feature 35488: 	be
-Feature 16459: 	pool
-Feature 30727: 	fix
-Feature 29155: 	your
-Feature 14992: 	seeing
-Feature 38428: 	please
-Feature 3358: 	defaultredirecthandler
-Feature 19811: 	255
-Feature 48493: 	this
-Feature 7065: 	reproducible
-Feature 32247: 	called
-Feature 14994: 	seeing
-Feature 30700: 	fix
-Feature 22113: 	tested
-Feature 30757: 	fix
-Feature 28973: 	thanks
-Feature 7125: 	     
-Feature 10727: 	uri
-Feature 43608: 	ioexception
-Feature 32364: 	null
-Feature 10695: 	uri
-Feature 12348: 	site
-Feature 40141: 	in
-Feature 15626: 	closes
-Feature 7070: 	co
-Feature 12427: 	moved
-Feature 34069: 	has
-Feature 38282: 	test
-Feature 2680: 	httpclientconnection
-Feature 34393: 	code
-Feature 62483: 	request
-Feature 30667: 	fix
-Feature 41729: 	            
-Feature 2497: 	privacy
-Feature 29390: 	will
-Feature 4022: 	secure
-Feature 14829: 	ssl
-Feature 62010: 	and
-Feature 18345: 	always
-Feature 4029: 	261
-Feature 15016: 	possible
-Feature 49927: 	it
-Feature 32573: 	if
-Feature 27690: 	name
-Feature 39359: 	method
-Feature 46366: 	5
-Feature 62875: 	1
-Feature 49096: 	this
-Feature 14384: 	applied
-Feature 58881: 	by
-Feature 2452: 	portion
-Feature 60151: 	a
-Feature 46449: 	that
-Feature 56964: 	an
-Feature 26897: 	fails
-Feature 14226: 	too
-Feature 32927: 	correct
-Feature 11448: 	oleglooks
-Feature 1910: 	models
-Feature 36124: 	should
-Feature 48845: 	this
-Feature 18447: 	processrequest
-Feature 14670: 	dependencies
-Feature 36455: 	runs
-Feature 14894: 	reported
-Feature 7087: 	distribution
-Feature 6607: 	contribute
-Feature 37435: 	response
-Feature 18982: 	think
-Feature 12207: 	configurable
-Feature 1274: 	querystring
-Feature 20860: 	loop
-Feature 13332: 	getter
-Feature 22393: 	currently
-Feature 35956: 	be
-Feature 2943: 	officially
-Feature 53456: 	the
-Feature 4316: 	mainly
-Feature 38943: 	cache
-Feature 22074: 	hear
-Feature 13921: 	care
-Feature 42845: 	params
-Feature 43714: 	http
-Feature 4656: 	registry
-Feature 8726: 	mime
-Feature 23763: 	list
-Feature 37644: 	you
-Feature 14556: 	linked
-Feature 50244: 	to
-Feature 12975: 	factory
-Feature 6312: 	moreover
-Feature 36255: 	should
-Feature 27110: 	authentication
-Feature 2005: 	bringing
-Feature 14157: 	want
-Feature 33146: 	html
-Feature 50644: 	to
-Feature 43685: 	michael
-Feature 9177: 	cover
-Feature 21112: 	src
-Feature 1414: 	eduardo
-Feature 39339: 	method
-Feature 8031: 	olegpatch
-Feature 41572: 	so
-Feature 37283: 	get
-Feature 16143: 	although
-Feature 31022: 	since
-Feature 42583: 	static
-Feature 46511: 	that
-Feature 14061: 	projects
-Feature 45446: 	32
-Feature 2357: 	impatient
-Feature 54507: 	the
-Feature 8134: 	explicit
-Feature 36643: 	at
-Feature 17050: 	fixes
-Feature 11994: 	objections
-Feature 54595: 	the
-Feature 2191: 	tagged
-Feature 61201: 	a
-Feature 61058: 	a
-Feature 45373: 	bug
-Feature 19770: 	153
-Feature 10442: 	license
-Feature 30660: 	fix
-Feature 368: 	multipartrelatedpart
-Feature 39132: 	8
-Feature 52511: 	api
-Feature 30861: 	t
-Feature 61200: 	a
-Feature 6772: 	plug
-Feature 30766: 	proposed
-Feature 3233: 	npe
-Feature 30956: 	t
-Feature 15386: 	documentation
-Feature 3086: 	lab1
-Feature 1640: 	needing
-Feature 15612: 	default
-Feature 55528: 	the
-Feature 25734: 	n
-Feature 24303: 	interface
-Feature 61481: 	a
-Feature 21675: 	08
-Feature 4655: 	registry
-Feature 2684: 	obtaining
-Feature 31137: 	docs
-Feature 7781: 	abort
-Feature 30740: 	fix
-Feature 7099: 	     
-Feature 11970: 	mikepatch
-Feature 55435: 	the
-Feature 4913: 	doc
-Feature 48262: 	problem
-Feature 7184: 	      
-Feature 35760: 	be
-Feature 14297: 	depend
-Feature 41844: 	e
-Feature 37603: 	you
-Feature 45364: 	bug
-Feature 40857: 	14
-Feature 13029: 	feature
-Feature 13043: 	causes
-Feature 15962: 	javadoc
-Feature 17043: 	fixes
-Feature 16288: 	fail
-Feature 46339: 	5
-Feature 40628: 	exception
-Feature 41106: 	6
-Feature 18696: 	false
-Feature 45491: 	7
-Feature 45286: 	bug
-Feature 22376: 	currently
-Feature 22054: 	generate
-Feature 13310: 	useful
-Feature 42274: 	throws
-Feature 9758: 	delay
-Feature 35711: 	be
+Feature 32815: 	 if the problem persists
+Feature 36524: 	 205
+Feature 37536: 	 snapshot and try
+Feature 58915: 	 followed by 301
+Feature 38850: 	 3 0 rc
+Feature 35488: 	 be thrown in
+Feature 16459: 	 pool entry
+Feature 30727: 	 fix the
+Feature 29155: 	 your application with the
+Feature 14992: 	 seeing that
+Feature 38428: 	 please attach a
+Feature 3358: 	 defaultredirecthandler redirect requested to location http
+Feature 19811: 	 255
+Feature 48493: 	 this causes issues
+Feature 7065: 	 reproducible with
+Feature 32247: 	 called on the
+Feature 14994: 	 seeing it
+Feature 30700: 	 fix as
+Feature 22113: 	 tested the patch
+Feature 30757: 	 fix request response interaction
+Feature 28973: 	 thanks for tracking down
+Feature 7125: 	       java 2009 06 02 13 14 12
+Feature 10727: 	 uri is not
+Feature 43608: 	 ioexception thrown by
+Feature 32364: 	 null path r n
+Feature 10695: 	 uri new uri
+Feature 12348: 	 site it
+Feature 40141: 	 in 3
+Feature 15626: 	 closes connection
+Feature 7070: 	 co
+Feature 12427: 	 moved temporarily
+Feature 34069: 	 has no effect if
+Feature 38282: 	 test case i
+Feature 2680: 	 httpclientconnection
+Feature 34393: 	 code looks good to me
+Feature 62483: 	 request containsheader accept encoding
+Feature 30667: 	 fix looks reasonable
+Feature 41729: 	              timeout             return false         
+Feature 2497: 	 privacy
+Feature 29390: 	 will end up
+Feature 4022: 	 secure connection
+Feature 14829: 	 ssl connection algorithms
+Feature 62010: 	 and do not
+Feature 18345: 	 always get a
+Feature 4029: 	 261
+Feature 15016: 	 possible values
+Feature 49927: 	 it is please
+Feature 32573: 	 if necessary
+Feature 27690: 	 name are
+Feature 39359: 	 method into
+Feature 46366: 	 5 it
+Feature 62875: 	 1 this patch should take care of the problem
+Feature 49096: 	 this is fixed
+Feature 14384: 	 applied test cases added
+Feature 58881: 	 by the time
+Feature 2452: 	 portion of the
+Feature 60151: 	 a cacheentry
+Feature 46449: 	 that cookie
+Feature 56964: 	 an ioexception and
+Feature 26897: 	 fails to parse it
+Feature 14226: 	 too late for
+Feature 32927: 	 correct my
+Feature 11448: 	 oleglooks fine to me
+Feature 1910: 	 models
+Feature 36124: 	 should take care of the problem please
+Feature 48845: 	 this should take care of the problem
+Feature 18447: 	 processrequest method
+Feature 14670: 	 dependencies cheers   roland
+Feature 36455: 	 runs
+Feature 14894: 	 reported by tom
+Feature 7087: 	 distribution so
+Feature 6607: 	 contribute it
+Feature 37435: 	 response you
+Feature 18982: 	 think it would be
+Feature 12207: 	 configurable item
+Feature 1274: 	 querystring
+Feature 20860: 	 loop repeatedly
+Feature 13332: 	 getter methods
+Feature 22393: 	 currently no way to
+Feature 35956: 	 be to move
+Feature 2943: 	 officially supported
+Feature 53456: 	 the feature has been
+Feature 4316: 	 mainly because
+Feature 38943: 	 cache entries are
+Feature 22074: 	 hear no complaints i ll commit the patch
+Feature 13921: 	 care of the problem
+Feature 42845: 	 params httpclient
+Feature 43714: 	 http wiki cacert org wiki
+Feature 4656: 	 registry for
+Feature 8726: 	 mime parsers
+Feature 23763: 	 list 2esince
+Feature 37644: 	 you think olegoleg
+Feature 14556: 	 linked hashmap
+Feature 50244: 	 to cover all
+Feature 12975: 	 factory class
+Feature 6312: 	 moreover i think
+Feature 36255: 	 should be provided
+Feature 27110: 	 authentication guide is
+Feature 2005: 	 bringing this
+Feature 14157: 	 want a
+Feature 33146: 	 html for
+Feature 50644: 	 to reproduce it
+Feature 43685: 	 michael i
+Feature 9177: 	 cover
+Feature 21112: 	 src examples org apache http examples client
+Feature 1414: 	 eduardo
+Feature 39339: 	 method or a
+Feature 8031: 	 olegpatch applied to head mike
+Feature 41572: 	 so bad
+Feature 37283: 	 get http user pass host
+Feature 16143: 	 although i
+Feature 31022: 	 since this is
+Feature 42583: 	 static int
+Feature 46511: 	 that uses a
+Feature 14061: 	 projects are
+Feature 45446: 	 32 gmt
+Feature 2357: 	 impatient
+Feature 54507: 	 the previous one
+Feature 8134: 	 explicit freshness
+Feature 36643: 	 at org xbill dns
+Feature 17050: 	 fixes the problem
+Feature 11994: 	 objections to committing this
+Feature 54595: 	 the fix created an attachment id
+Feature 2191: 	 tagged
+Feature 61201: 	 a test case would
+Feature 61058: 	 a fix for
+Feature 45373: 	 bug 1
+Feature 19770: 	 153
+Feature 10442: 	 license terms
+Feature 30660: 	 fix take1
+Feature 368: 	 multipartrelatedpart
+Feature 39132: 	 8 r n
+Feature 52511: 	 api i don t
+Feature 30861: 	 t occur
+Feature 61200: 	 a test case
+Feature 6772: 	 plug in
+Feature 30766: 	 proposed fix this
+Feature 3233: 	 npe if
+Feature 30956: 	 t fix the
+Feature 15386: 	 documentation says
+Feature 3086: 	 lab1
+Feature 1640: 	 needing
+Feature 15612: 	 default is
+Feature 55528: 	 the problem lies
+Feature 25734: 	 n l files
+Feature 24303: 	 interface httpcache
+Feature 61481: 	 a httpclient
+Feature 21675: 	 08 22 12
+Feature 4655: 	 registry
+Feature 2684: 	 obtaining
+Feature 31137: 	 docs building txt
+Feature 7781: 	 abort httpmethod hangs due to bad proxy config
+Feature 30740: 	 fix for 2 0
+Feature 7099: 	           override def
+Feature 11970: 	 mikepatch checked in
+Feature 55435: 	 the bug reporter
+Feature 4913: 	 doc in
+Feature 48262: 	 problem lurking
+Feature 7184: 	             public
+Feature 35760: 	 be nice to have
+Feature 14297: 	 depend on
+Feature 41844: 	 e      catch
+Feature 37603: 	 you want me to
+Feature 45364: 	 bug i was
+Feature 40857: 	 14 oct 2010 11 45
+Feature 13029: 	 feature complete
+Feature 13043: 	 causes connections to
+Feature 15962: 	 javadoc warnings
+Feature 17043: 	 fixes things
+Feature 16288: 	 fail because
+Feature 46339: 	 5 seconds
+Feature 40628: 	 exception chaining
+Feature 41106: 	 6 specific
+Feature 18696: 	 false  
+Feature 45491: 	 7      
+Feature 45286: 	 bug 34262
+Feature 22376: 	 currently catches
+Feature 22054: 	 generate such
+Feature 13310: 	 useful if
+Feature 42274: 	 throws unsupportedencodingexception
+Feature 9758: 	 delay
+Feature 35711: 	 be used however
